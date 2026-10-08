@@ -1,4 +1,4 @@
 {
-  "status": "warn",
-  "message": "Test notice: payment is due. Contact the administrator."
+  "status": "off",
+  "message": "Test lock: service suspended. Contact the administrator."
 }
