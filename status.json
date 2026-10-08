@@ -1,4 +1,4 @@
 {
-  "status": "on",
-  "message": ""
+  "status": "warn",
+  "message": "Test notice"
 }
