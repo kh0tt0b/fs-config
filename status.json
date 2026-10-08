@@ -1,4 +1,4 @@
 {
-  "status": "off",
-  "message": "Test lock: service suspended. Contact the administrator."
+  "status": "on",
+  "message": ""
 }
